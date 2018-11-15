@@ -1,0 +1,19 @@
+.container-fluid {
+  background-color: yellow;
+}
+
+header {
+  background-color: blue;
+}
+
+nav {
+  background-color: green;
+}
+
+section {
+  background-color: red;
+}
+
+aside {
+  background-color: turquoise;
+}
